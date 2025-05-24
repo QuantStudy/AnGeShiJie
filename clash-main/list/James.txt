@@ -1,0 +1,7 @@
+DOMAIN-SUFFIX,xmrth.com
+DOMAIN-KEYWORD,xmrth
+DOMAIN-SUFFIX,hongxingdl.com
+DOMAIN-KEYWORD,hongxing
+DOMAIN-SUFFIX,wbe-agent.kuajing.uk
+DOMAIN-KEYWORD,kuajing
+DOMAIN-SUFFIX,kuaimao2.club
